@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "8ca3",
+      "name": "Ripon Miah khan",
+      "email": "ripon@gmail.com",
+      "cell": "0109136957589",
+      "image": "https://creazilla-store.fra1.digitaloceanspaces.com/icons/7912642/avatar-icon-md.png"
+    },
+    {
+      "id": "8046",
+      "name": "Ripon Miah khan",
+      "email": "ripon@gmail.com",
+      "cell": "109136957589",
+      "image": "https://creazilla-store.fra1.digitaloceanspaces.com/icons/7912642/avatar-icon-md.png"
+    },
+    {
+      "id": "41f5",
+      "name": "Ripon Miah khan",
+      "email": "ripon@gmail.com",
+      "cell": "10913695758",
+      "image": "https://creazilla-store.fra1.digitaloceanspaces.com/icons/7912642/avatar-icon-md.png"
+    }
+  ]
+}
